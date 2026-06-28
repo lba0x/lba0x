@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @lba0x
-- 👀 I’m interested in HTML,CSS,JAVASCRIPT
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Oi, eu sou o tuino
 
-<!---
-tuino/tuino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor Front-End em formação. Apaixonado por transformar linhas de código em interfaces bonitas e funcionais.
+
+---
+
+- 🌱 **Estudando atualmente:** HTML, CSS e JavaScript.
+- 🎯 **Objetivo:** Dominar a base do Front-End para criar aplicações web completas e responsivas.
+- 📫 **Contato:** Você pode me encontrar através do meu [LinkedIn](......) ou pelo e-mail 'x4c42l@tuta.io'.
+
+<br>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
