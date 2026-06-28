@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o tuino
+# 👋 Oi, eu sou o lba0x
 
 Desenvolvedor Front-End em formação. Apaixonado por transformar linhas de código em interfaces bonitas e funcionais.
 
